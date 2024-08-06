@@ -9,7 +9,7 @@ A réplica inclui a estrutura básica e o layout do site do Starbucks, incluindo
 ## Estrutura do Projeto
 
 - `index.html`: Arquivo principal HTML contendo a estrutura da página.
-- `css/styles.css`: Arquivo CSS responsável pelo estilo e layout da página.
+- `css/projeto_Starbucks.css.css`: Arquivo CSS responsável pelo estilo e layout da página.
 
 ## Visualizar o Projeto
 Você pode ver o projeto funcionando [aqui](https://JoaoDevPro.github.io/Starbucks-Replica/).
