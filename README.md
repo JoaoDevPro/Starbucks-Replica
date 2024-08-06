@@ -13,4 +13,4 @@ A réplica inclui a estrutura básica e o layout do site do Starbucks, incluindo
 
 ## Visualizar o Projeto
 Você pode ver o projeto funcionando [aqui](https://JoaoDevPro.github.io/Starbucks-Replica/).
-![image](https://github.com/user-attachments/assets/450b61bd-8757-4e55-8d9e-c32f1002d3ca)
+
